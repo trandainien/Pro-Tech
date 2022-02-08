@@ -1,0 +1,1 @@
+Sum of all products is: 246000000
